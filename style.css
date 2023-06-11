@@ -21,3 +21,25 @@ input{
     padding: 10px; 
     
 }
+@media (max-width: 768px) {
+    h1 {
+      padding-top: 50%;
+      margin-bottom: 10%;
+      font-size: 1.5rem;
+    }
+    div{
+        margin-bottom: 5%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+        padding-top: 50%;
+        margin-bottom: 10%;
+        font-size: 1.5rem;
+      }
+      div{
+          margin-bottom: 5%;
+      }
+    }
+  
